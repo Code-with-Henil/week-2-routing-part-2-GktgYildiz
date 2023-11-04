@@ -1,0 +1,11 @@
+.active {
+  background: tomato;
+  color: black;
+  font-size: 2em;
+  text-decoration: none;
+}
+
+.currentPage {
+  font-weight: bold;
+  background-color: yellow;
+}
